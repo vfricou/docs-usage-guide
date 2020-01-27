@@ -1,0 +1,10 @@
+version: '3.6'
+
+services:
+  mkdocs:
+    image: sillywhale/mkdocs:latest
+    ports:
+      - 8000:8000
+    volumes:
+      - .:/mkdocs:ro
+    restart: unless-stopped
