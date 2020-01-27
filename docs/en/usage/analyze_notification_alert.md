@@ -38,7 +38,7 @@ For teams notifications, we could find add fields quite similar to [SMS / Email]
 
 ```text
 Monitoring notification
-:emoji: $ (DOWN) on RGM_HOST (127.0.0.1) 
+:emoji: $ (DOWN) on RGM_HOST (127.0.0.1)
 Date: Mon Jan 27 09:55:00 CET 2020 Additional Info: CRITICAL - Host Unreachable (127.0.0.1)
 ```
 
