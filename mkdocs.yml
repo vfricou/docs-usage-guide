@@ -1,7 +1,7 @@
 site_name: RGM Usage documentation
 pages:
   - Home : index.md
-theme:
+theme: material
 repo_url: https://github.com/vfricou/docs-usage-guide.git
 site_author: Vincent FRICOU <vincent@fricouv.eu>
 copyright: RGM-OSC Team
