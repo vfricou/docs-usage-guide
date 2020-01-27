@@ -1,6 +1,7 @@
 # Common RGM Usage
 
 - [Search host from name](search_host_from_name.md)
+- [Analyze notification alert](analyze_notification_alert.md)
 - [View host history](view_host_history.md)
 - [View service history](view_service_history.md)
 - [View business process status](view_bp_status.md)
