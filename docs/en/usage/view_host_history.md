@@ -45,4 +45,4 @@ We could detail with :
 - `WARNING` : Correspond to the status of service or host status for the alert.
 - `HARD` : Type of alert. You could find two states for an alert, _SOFT_ and _HARD_. The difference is than only HARD state trigger the notification process. It could be assimiled to a confirmation state
 - `4` : Is the number of checks effectued in this state
-- `(null)` : Correspond to check output. In this case, the check as returned no output and the monitoring platform insert a null value as output.ç
+- `(null)` : Correspond to check output. In this case, the check as returned no output and the monitoring platform insert a null value as output.
